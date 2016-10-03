@@ -320,7 +320,7 @@ Created by Zach Supalla.
   };
 
   // Ok, then let's do it!
-  Docs.rememberDevices();
+//  Docs.rememberDevices();
   Docs.transform();
   Docs.setupTOCScrollSpy();
   Docs.scrollToInternalLinks();

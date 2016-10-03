@@ -9,7 +9,7 @@ order: 8
 ## Introduction - The GrowSquare v1.0
 The GrowSquare is a raised planter bed that can be used for above-ground planting, where high-quality soil is rare. It's a convenient way to start your produce growing in an easy, elegant way. During this tutorial series, we'll show you how to model the GrowSquare v1.0 in SolidWorks.
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/e8a5c06742e747138760b5c33ea7c800/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/e8a5c06742e747138760b5c33ea7c800/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
 </div>
 
 For more information, follow these links:
