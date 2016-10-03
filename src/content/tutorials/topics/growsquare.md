@@ -2,7 +2,6 @@
 title: GrowSquare v1.0 CAD Tutorial
 template: tutorials.hbs
 columns: two
-devices: [ electron ]
 order: 8
 ---
 
