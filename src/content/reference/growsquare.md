@@ -1,7 +1,7 @@
 ---
 title: GrowSquare
 template: reference.hbs
-columns: three
+columns: two
 order: 10
 ---
 
