@@ -176,6 +176,7 @@ exports.metalsmith = function() {
       relative: false
     }))
     .use(redirect({
+      '/': '/tutorials/topics/growsquare',
       '/guide': '/guide/getting-started/intro',
       '/guide/photon/': '/guide/photon/start',
       '/guide/core/': '/guide/core/start',

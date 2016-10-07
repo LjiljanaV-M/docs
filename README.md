@@ -1,8 +1,6 @@
 ## AKER Documentation 
 =======
 
-Here you'll find the documentation for the Particle platform, including the Particle Cloud, Photon, and Spark Core.
-
 To view this documentation, visit [our website](http://docs.akerkits.com), where the documentation is hosted.
 
 ### Installation
