@@ -3,11 +3,16 @@
 
 To view this documentation, visit [our website](http://docs.akerkits.com), where the documentation is hosted.
 
+### Quickstart
+
+ - In the docs directory, pull latest: ``git checkout master && git pull``
+ - Download dependencies: ``npm install``
+ - Launch local server: ``npm start``
+ - Once everything looks good, push back up to the master branch: ``git push``
+
 ### Installation
 
-To host this documentation locally, you'll need Node.js and npm:
-
-    brew install nodejs
+To host this documentation locally, you'll need Node.js and npm
 
 Once you have Node.js set up, navigate to this repository's directory on your machine, and then:
 
@@ -34,10 +39,6 @@ not.
 ### Deployment
 
 When updated documentation is pushed to the master branch, it is automatically pushed to the server
-
-TODO: FURTHER INSTRUCTIONS FOR DEPLOYMENT
-
-To see the latest build, visit the [Travis CI page](https://travis-ci.org/spark/docs).
 
 ### Organization
 
