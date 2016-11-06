@@ -7,6 +7,7 @@ To view this documentation, visit [our website](http://docs.akerkits.com), where
 (Windows Only)
  - Right-click on Git Bash, select "Run as Administrator"
  - In the docs directory: ''npm install --global --production windows-build-tools''
+ 
 (All Platforms)
  - In the docs directory, pull latest: ``git checkout master && git pull``
  - Download dependencies: ``npm install``
