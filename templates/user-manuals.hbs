@@ -1,0 +1,29 @@
+<!doctype html>
+<html class="{{columns}}-columns">
+<head>
+  {{> head sectionTitle='User Manuals'}}
+</head>
+<body>
+  <div id="docs" data-level>
+    {{> header}}
+
+    <div class='content-root'>
+      <div class='menubar'>
+      <ul class="nav guide-menu">
+        {{#each userManuals}}
+          <li><a href="{{path.href}}{{path.name}}">{{title}}</a></li>
+        {{/each}}
+      </ul>
+      </div>
+      <div class="page-body">
+        <div class='content-inner'>
+          <div class="content" >
+            {{{contents}}}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{> scripts}}
+
+</body>
+</html>
