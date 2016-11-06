@@ -12,6 +12,8 @@ To view this documentation, visit [our website](http://docs.akerkits.com), where
  - In the docs directory, pull latest: ``git checkout master && git pull``
  - Download dependencies: ``npm install``
  - Launch local server: ``npm start``
+ - "Git add." or "Git add -u"
+ - "Git commit -m (message)"
  - Once everything looks good, push back up to the master branch: ``git push``
 
 ### Installation
