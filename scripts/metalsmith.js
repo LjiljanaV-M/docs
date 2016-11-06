@@ -140,14 +140,6 @@ exports.metalsmith = function() {
         ]
       }
     }))//end of collections/sections
-    .use(fork({
-      key: 'devices',
-      redirectTemplate: './templates/redirector.jade'
-    }))
-    .use(inPlace({
-      engine: 'jade',
-      pattern: '**/*.jade'
-    }))
     .use(copy({
       pattern: '**/*.jade',
       extension: '.html',
