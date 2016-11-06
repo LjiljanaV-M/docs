@@ -1,6 +1,6 @@
 ---
 title: Test Manual Two
-template: assembly-manuals.hbs
+template: user-manuals.hbs
 order: 1
 ---
 
