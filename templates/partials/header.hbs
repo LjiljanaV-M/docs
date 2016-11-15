@@ -20,17 +20,15 @@
       </a>
       <ul class="dropdown-menu" aria-labelledby="dLabel">
         <li><a href="/tutorials/topics/growsquare">Design Tutorials</a></li>
-        <li><a href="/assembly-manuals">Assembly Manuals</a></li>
-        <li><a href="/user-manuals">User Manuals</a></li>
+        <li><a href="{{ assemblyManuals.[0].path.href }}{{ assemblyManuals.[0].path.name }}">Assembly Manuals</a></li>
+        <li><a href="{{ userManuals.[0].path.href }}{{ userManuals.[0].path.name }}">User Manuals</a></li>
+        <li><a href="{{ businessModel.[0].path.href }}{{ businessModel.[0].path.name }}">Open Business Model</a></li>
+        <li><a href="{{ beehives.[0].path.href }}{{ beehives.[0].path.name }}">Open Source Beehives</a></li>
       </ul>
     </div>
-    <div class="search">
-      <div class="search-input-wrapper">
-        <i class="ion-search"></i>
-        <input class="search-box" type="text" placeholder="Search" value=""/>
-      </div>
-      <div class="search-results">
-      </div>
+    <div class="sections second">
+      <a class="nav {{#contains path.href 'open-business-model'}}active{{/contains}}" href="{{ businessModel.[0].path.href }}{{ businessModel.[0].path.name }}">Open Business Model</a>
+      <a class="nav {{#contains path.href 'open-source-beehives'}}active{{/contains}}" href="{{ beehives.[0].path.href }}{{ beehives.[0].path.name }}">Open Source Beehives</a>
     </div>
   </div>
   <div class='right'>
