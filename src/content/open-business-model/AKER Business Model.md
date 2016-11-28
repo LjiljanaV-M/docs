@@ -26,7 +26,7 @@ The greatest advantage of an LLC is that members benefit from limited liability,
 
 ## Sales Licences
 
-
+We were required to get a sales tax license for the State of Colorado as well as the City of Denver. You can easily file for a state sales license online [here](https://apps.colorado.gov/apps/jboss/cbe/index.xhtml;jsessionid=5S1cpowKiOqArBAcChv1GA__), and you can file for a city sales tax license [here](https://www.denvergov.org/content/dam/denvergov/Portals/571/documents/NewTaxpayerRegistrationForm.pdf).
 
 ### Materials:
 Sourcing quality, yet affordable materials can be a problem for any new business, so we wanted to share what we have learned in the hopes that it will be easier for others to follow in our footsteps to create sustainable business of the future.
