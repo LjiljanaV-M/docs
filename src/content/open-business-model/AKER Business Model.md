@@ -43,7 +43,9 @@ When you file for a sales tax license, you also receive a *Colorado Account Numb
 ## Materials & Finishes
 
 ### General Requirements: Plywood
+
 Plywood kits can last for years, even in outdoor conditions (boats are often made with *Marine Plywood*). These are our ideal properties:
+
 * *Exterior-grade*: phenolic resins
 * *No Added Urea Formaldehydes (NAUF)*
 * *FSC-Certified or equivalent*: responsibly managed forests
@@ -53,19 +55,25 @@ Plywood kits can last for years, even in outdoor conditions (boats are often mad
 * *Light-weight*: less costs when shipping
 
 
-##### Baltic Birch:
-AKER manufactures its products primarily using a 4’ x 8’ x ½”, Grade BB, 9 ply, FSC Certified Baltic Birch. Our current supplier is [National Wood Products](http://nationalwood.com/). Baltic Birch is a plywood native to North Eastern Europe, near the Baltic Sea. Unlike many plywood’s, the inner plies of Baltic Birch are 1.5 mm-thick solid birch veneer, cross-banded, and laminated with exterior grade adhesive.
-According to [Wood Worker Source](http://www.woodworkerssource.com/blog/woodworking-101/tips-tricks/your-ultimate-guide-to-baltic-birch-plywood-why-its-better-when-to-use-it/), as well as our own experience, there are several properties of Baltic Birch that make it uniquely suitable for our products, as well as for other woodworking endeavors. First and foremost, while most plywood’s use an inferior wood on inner plies, Baltic Birch inner plies are made up of birch veneers which results in a virtually void free (no gaps) core, which makes for superior screw holding. Additionally the solid birch veneers make for stable joinery that is both structurally sound and aesthetically pleasing. Furthermore, while all woods run the risk of warping, the cross-banded layers of 1.5 mm thick birch veneer makes the sheets balanced, which reduces this risk and makes for a significantly flatter product.
+#### Current Plywood: Baltic Birch
 
+AKER manufactures its products primarily using a 4’ x 8’ x ½”, Grade BB, 9 ply, FSC Certified Baltic Birch. Our current supplier is [National Wood Products](http://nationalwood.com/). Baltic Birch is a plywood native to North Eastern Europe, near the Baltic Sea. Unlike many plywood’s, the inner plies of Baltic Birch are 1.5 mm-thick solid birch veneer, cross-banded, and laminated with exterior grade adhesive.
+
+According to [Wood Worker Source](http://www.woodworkerssource.com/blog/woodworking-101/tips-tricks/your-ultimate-guide-to-baltic-birch-plywood-why-its-better-when-to-use-it/), as well as our own experience, there are several properties of Baltic Birch that make it uniquely suitable for our products, as well as for other woodworking endeavors. First and foremost, while most plywood’s use an inferior wood on inner plies, Baltic Birch inner plies are made up of birch veneers which results in a virtually void free (no gaps) core, which makes for superior screw holding. Additionally the solid birch veneers make for stable joinery that is both structurally sound and aesthetically pleasing. Furthermore, while all woods run the risk of warping, the cross-banded layers of 1.5 mm thick birch veneer makes the sheets balanced, which reduces this risk and makes for a significantly flatter product.
 
 At AKER, we use a grade BB/BB Baltic Birch, meaning that both the front and back veneers are made up of a single piece and allow for 3-6 small color-matched patches on average and some light mineral streaks. The inner cores of BB/BB are solid single piece veneers. You can learn more about the different grades of plywood [here](http://woodworking.about.com/od/plywood/p/PlywoodGrades.htm) or [here](http://www.ezwoodshop.com/plywood/plywood-grades.html)
 
-
 Another important factor to consider when choosing a plywood is whether you will want interior or exterior grade glue lines. If you want to use your product outdoors (as AKER does), you must be sure to get plywood that has an exterior grade adhesive. Within the category of exterior grade glues, there are several different types. AKER chooses to use a plywood with a Phenolic Resin Adhesive, as it creates a stronger bond as compared to urea based resins. More info on different adhesives can be found [here](http://blog.positiveindians.in/plywood/adhesives-for-plywood.html).
-
 
 AKER is proud to say that the Baltic Birch we use is FSC Certified. A Forest Stewardship Council (FSC) Certification ensures that products come from well managed forests that provide environmental, social and economic benefits. Whenever possible, AKER strives to use FSC certified wood to minimize the environmental impact from the creation of our products. More information on the FSC Certification can be found [here](https://us.fsc.org/en-us/certification) Overall, FSC Certified Baltic Birch is a uniquely suitable for our products in that it is sustainable, durable and aesthetically pleasing.
 
+### General Requirements: Sealers
+
+Ideal properties for wood sealers:
+
+* *FDA/USDA Compliant*:
+* *Non-Toxic*: 
+* *ASMT Tests*: passes ASTM testing
 
 ##### TriCoPolymer: Hive Seal
 After researching and testing multiple wood seals on our products, TriCoPolymer Hive Seal has been shown to be the best in terms of sustainability. Hive Seal dries clear and is eco-friendly, non-toxic, non-hazardous, non-flammable, non-corrosive, non-leaching and does not emit any Volatile Organic Compounds (VOC’s). It has been proven to be safe for animals, including Bees and is USDA/FDA compliant. Many of TriCoPolymer’s products can be bought from [homedepot.com](http://www.homedepot.com/p/TriCoPolymer-VOC-Free-Non-Toxic-Lumber-Seal-1-gal-Clear-Satin-Wood-Sealer-LS128/203322573) or [amazon.com](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dtools&field-keywords=tricopolymer), while specialty products such as their Hive Seal can only be found at [Agralifeproducts.com](http://agralifeproducts.com/products/specialty-sealants).  You can see the general TriCoPolymer MSDS [here](https://drive.google.com/file/d/0BzmpC52tSYTKTzJJcG1SWUlQaHM/view?usp=sharing).
