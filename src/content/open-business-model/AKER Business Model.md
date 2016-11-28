@@ -5,24 +5,23 @@ order: 1
 ---
 
 # **AKER Operations**
-### Founding
-##### Formation
-AKER is  set up as a Limited Liability Company with three members in the LLC (Aaron Makaruk, Tristan Copley-Smith and the Shuttleworth Foundation).
 
+### Founding
+
+##### Formation
+
+AKER is  set up as a *Limited Liability Company*
+
+**Template**: [Operating Agreement](https://docs.google.com/document/d/1E9ytwONhVOc-fwhYyxeekJipqMIEv2QGfsrnGVfRg34/edit?usp=sharing)
 
 A LLC is a hybrid legal business structure that provides limited liability, while still maintaining much of the flexibilities of a partnership. Owners of an LLC (known as members) may be an individual, group of individuals, corporations, or other LLC’s. The federal government does not recognize LLC’s as a business entity for tax purposes, and as such LLC’s must file taxes as either a corporation, partnership, or sole proprietorship. In order to form a LLC, one must choose a business name, file “articles of organization”, create an operating agreement and obtain the necessary licenses and permits.
-
 
 The greatest advantage of an LLC is that members benefit from limited liability, meaning that they are not held personally liable for business decisions or debts of the LLC. Additionally, this business structure requires less record keeping and facilitates easier sharing of profits than corporations. Disadvantages of an LLC include that they have a limited life, meaning (in many cases) that they must be dissolved if a member leaves the business and also that members must pay taxes on the net income of the LLC, as if they were self employed. More info on LLC’s can be found [here](https://www.sba.gov/starting-business/choose-your-business-structure/limited-liability-company).
 
 
-You can find a copy of our operating agreement [here](https://docs.google.com/document/d/1E9ytwONhVOc-fwhYyxeekJipqMIEv2QGfsrnGVfRg34/edit) that you can adapt to fit you needs. Most elements of this operating agreement are standard apart from Article VIII which pertains to an Open Source Agreement we have with the Shuttleworth Foundation. Additionally, while in many LLC’s must end when a member leaves the business, you will notice that the AKER Operating Agreement contains clauses that allow for members to depart the business, without needing needing to dissolve the LLC as a whole.
 
 
 ##### Mission/Vision:
-
-
-##### History:
 
 
 ### Materials:
