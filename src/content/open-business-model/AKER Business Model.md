@@ -74,11 +74,12 @@ Ideal properties for wood sealers:
 * *FDA/USDA Compliant*:
 * *Non-Toxic*: 
 * *ASMT Tests*: passes ASTM testing
+* *VOC Free*: free from the offgassing of volatile organic compounds
+* *Lead Free*: no lead present
+* *Formaldehyde Free*: no formaldehydes present
 
-##### TriCoPolymer: Hive Seal
+#### Current Sealer: TriCoPolymer
 After researching and testing multiple wood seals on our products, TriCoPolymer Hive Seal has been shown to be the best in terms of sustainability. Hive Seal dries clear and is eco-friendly, non-toxic, non-hazardous, non-flammable, non-corrosive, non-leaching and does not emit any Volatile Organic Compounds (VOC’s). It has been proven to be safe for animals, including Bees and is USDA/FDA compliant. Many of TriCoPolymer’s products can be bought from [homedepot.com](http://www.homedepot.com/p/TriCoPolymer-VOC-Free-Non-Toxic-Lumber-Seal-1-gal-Clear-Satin-Wood-Sealer-LS128/203322573) or [amazon.com](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dtools&field-keywords=tricopolymer), while specialty products such as their Hive Seal can only be found at [Agralifeproducts.com](http://agralifeproducts.com/products/specialty-sealants).  You can see the general TriCoPolymer MSDS [here](https://drive.google.com/file/d/0BzmpC52tSYTKTzJJcG1SWUlQaHM/view?usp=sharing).
-
-
 
 
 ##### Alternative Materials
