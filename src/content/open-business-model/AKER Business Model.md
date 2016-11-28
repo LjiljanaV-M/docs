@@ -40,10 +40,17 @@ We were required to get a *sales tax license* for the State of Colorado as well 
 
 When you file for a sales tax license, you also receive a *Colorado Account Number* (CAN) that you'll use as an employer.
 
-## Manufacturing
+## Materials & Finishes
 
-### Materials:
-Sourcing quality, yet affordable materials can be a problem for any new business, so we wanted to share what we have learned in the hopes that it will be easier for others to follow in our footsteps to create sustainable business of the future.
+### General Requirements: Plywood
+Plywood kits can last for years, even in outdoor conditions (boats are often made with *Marine Plywood*). These are our ideal properties:
+* *Exterior-grade*: phenolic resins
+* *No Added Urea Formaldehydes (NAUF)*
+* *FSC-Certified or equivalent*: responsibly managed forests
+* *High Ply Count*: 9 plies (layers) on 0.5"/12mm 
+* *Domestically-sourced*: smaller carbon footprint & easier to audit
+* *Void-free*: machined sections will be consistent
+* *Light-weight*: less costs when shipping
 
 
 ##### Baltic Birch:
