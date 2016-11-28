@@ -34,9 +34,7 @@ The greatest advantage of an LLC is that members benefit from limited liability,
 
 **Link**: [Colorado Department of Revenue Online](https://www.colorado.gov/revenueonline/_/)
 
-We were required to get a sales tax license for the State of Colorado as well as the City of Denver. You can easily file for a state sales license online [here](https://apps.colorado.gov/apps/jboss/cbe/index.xhtml;jsessionid=5S1cpowKiOqArBAcChv1GA__), and you can file for a city sales tax license [here](https://www.denvergov.org/content/dam/denvergov/Portals/571/documents/NewTaxpayerRegistrationForm.pdf).
-
-We file sales taxes on a quarterly basis with the [Colorado Department of Revenue](https://www.colorado.gov/revenueonline/_/).
+We were required to get a sales tax license for the State of Colorado as well as the City of Denver. You can easily file for a state sales license online [here](https://apps.colorado.gov/apps/jboss/cbe/index.xhtml;jsessionid=5S1cpowKiOqArBAcChv1GA__), and you can file for a city sales tax license [here](https://www.denvergov.org/content/dam/denvergov/Portals/571/documents/NewTaxpayerRegistrationForm.pdf). We file sales taxes on a quarterly basis with the [Colorado Department of Revenue](https://www.colorado.gov/revenueonline/_/).
 
 When you file for a sales tax license, you also receive a Colorado Account Number (CAN) that you'll use as an employer.
 
