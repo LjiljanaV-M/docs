@@ -1,3 +1,9 @@
+---
+title: Aker Busines Model
+template: default.hbs
+order: 1
+---
+
 # **AKER Operations**
 ### Founding
 ##### Formation

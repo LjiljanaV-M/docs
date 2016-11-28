@@ -1,0 +1,24 @@
+<!doctype html>
+<html class="{{columns}}-columns">
+<head>
+  {{> head sectionTitle=title}}
+</head>
+<body>
+  <div id="docs">
+    {{> header}}
+
+    <div class='content-root'>
+      <div class='menubar'>
+      </div>
+      <div class="page-body">
+        <div class='content-inner'>
+          <div class="content" >
+            {{{contents}}}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{> scripts}}
+
+</body>
+</html>
