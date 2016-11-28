@@ -67,6 +67,22 @@ Another important factor to consider when choosing a plywood is whether you will
 
 AKER is proud to say that the Baltic Birch we use is FSC Certified. A Forest Stewardship Council (FSC) Certification ensures that products come from well managed forests that provide environmental, social and economic benefits. Whenever possible, AKER strives to use FSC certified wood to minimize the environmental impact from the creation of our products. More information on the FSC Certification can be found [here](https://us.fsc.org/en-us/certification) Overall, FSC Certified Baltic Birch is a uniquely suitable for our products in that it is sustainable, durable and aesthetically pleasing.
 
+#### Alternative Materials
+
+Currently, AKER is experimenting with a number of sustainable materials to ensure that our products are as environmentally friendly as possible. We will outline these materials below.
+
+
+- **MycoBoard**: According to the [Evocative Website](http://www.ecovativedesign.com/myco-board), “MycoBoard™ products are a biofabricated, certified sustainable, form of engineered wood. They are grown using mycelium – “nature’s glue” – which is formaldehyde-free, safe, and healthy and produces panels that are strong, machinable and fire-resistant.” Currently the MycoBoard team is producing custom printed shapes and 3’ x 6’ sheets on their own presses and have partnered with mills in North America to create 4’ x 8’ and 5’ x 10’ panels in greater volumes. AKER hopes to incorporate this mushroom based sustainable material into its products in the near future. You can learn more about MycoBoard [here](http://www.ecovativedesign.com/myco-boardhttp://www.ecovativedesign.com/myco-board).
+
+
+- **Smile Plastics**: Smile Plastics are hand made plastic sheets created entirely from recycled plastics. These high end plastics come in a number of unique colors and designs and the sheets are fully machineable. AKER has used a sheet of Smile Plastics on the prototypes of some of its products, but currently their prices are prohibitively expensive to use on all of our products. You can see a picture of AKER’s products made with Smile Plastics on our [twitter page](https://twitter.com/akerkits/status/761633215505281024) and learn more about their plastics at [smile-plastics.com](http://www.smile-plastics.com/about-us/).
+
+
+- **Richlite**: Richlite is an eco friendly, FSC Certified, paper based composite material. According to their website, richlite.com, "Richlite works similar to a dense hardwood and can be easily milled, sanded, routed, and joined. Richlite is water-resistant, sanitary, has low moisture absorption, heat and fire resistant [and is] extraordinarily dense and durable.” AKER hopes to produce products using Richlite in the near future.
+
+
+- **Krion**: In many ways, Krion seems similar to stone, however, unlike stone, it is fully machineable using a CNC Router. According to [Krion.com](http://www.krion.com/en/what-is-krion), it is "made of two-thirds natural minerals (ATH – aluminum trihydride) and a low percentage of high-resistance resins. This composition gives KRION™ a number of exclusive features: it does not have any pores, it is anti-bacterial without any type of additive, it is hard-wearing, highly resistant and easy to repair, only requires minimum maintenance and is easy to clean." AKER has successfully engraved a test sheet of Krion, and would like to experiment more with this material moving forward.
+
 ### General Requirements: Sealers
 
 Ideal properties for wood sealers:
@@ -82,20 +98,7 @@ Ideal properties for wood sealers:
 After researching and testing multiple wood seals on our products, TriCoPolymer Hive Seal has been shown to be the best in terms of sustainability. Hive Seal dries clear and is eco-friendly, non-toxic, non-hazardous, non-flammable, non-corrosive, non-leaching and does not emit any Volatile Organic Compounds (VOC’s). It has been proven to be safe for animals, including Bees and is USDA/FDA compliant. Many of TriCoPolymer’s products can be bought from [homedepot.com](http://www.homedepot.com/p/TriCoPolymer-VOC-Free-Non-Toxic-Lumber-Seal-1-gal-Clear-Satin-Wood-Sealer-LS128/203322573) or [amazon.com](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dtools&field-keywords=tricopolymer), while specialty products such as their Hive Seal can only be found at [Agralifeproducts.com](http://agralifeproducts.com/products/specialty-sealants).  You can see the general TriCoPolymer MSDS [here](https://drive.google.com/file/d/0BzmpC52tSYTKTzJJcG1SWUlQaHM/view?usp=sharing).
 
 
-##### Alternative Materials
-Currently, AKER is experimenting with a number of sustainable materials to ensure that our products are as environmentally friendly as possible. We will outline these materials below.
 
-
-- **MycoBoard**: According to the [Evocative Website](http://www.ecovativedesign.com/myco-board), “MycoBoard™ products are a biofabricated, certified sustainable, form of engineered wood. They are grown using mycelium – “nature’s glue” – which is formaldehyde-free, safe, and healthy and produces panels that are strong, machinable and fire-resistant.” Currently the MycoBoard team is producing custom printed shapes and 3’ x 6’ sheets on their own presses and have partnered with mills in North America to create 4’ x 8’ and 5’ x 10’ panels in greater volumes. AKER hopes to incorporate this mushroom based sustainable material into its products in the near future. You can learn more about MycoBoard [here](http://www.ecovativedesign.com/myco-boardhttp://www.ecovativedesign.com/myco-board).
-
-
-- **Smile Plastics**: Smile Plastics are hand made plastic sheets created entirely from recycled plastics. These high end plastics come in a number of unique colors and designs and the sheets are fully machineable. AKER has used a sheet of Smile Plastics on the prototypes of some of its products, but currently their prices are prohibitively expensive to use on all of our products. You can see a picture of AKER’s products made with Smile Plastics on our [twitter page](https://twitter.com/akerkits/status/761633215505281024) and learn more about their plastics at [smile-plastics.com](http://www.smile-plastics.com/about-us/).
-
-
-- **Richlite**: Richlite is an eco friendly, FSC Certified, paper based composite material. According to their website, richlite.com, "Richlite works similar to a dense hardwood and can be easily milled, sanded, routed, and joined. Richlite is water-resistant, sanitary, has low moisture absorption, heat and fire resistant [and is] extraordinarily dense and durable.” AKER hopes to produce products using Richlite in the near future.
-
-
-- **Krion**: In many ways, Krion seems similar to stone, however, unlike stone, it is fully machineable using a CNC Router. According to [Krion.com](http://www.krion.com/en/what-is-krion), it is "made of two-thirds natural minerals (ATH – aluminum trihydride) and a low percentage of high-resistance resins. This composition gives KRION™ a number of exclusive features: it does not have any pores, it is anti-bacterial without any type of additive, it is hard-wearing, highly resistant and easy to repair, only requires minimum maintenance and is easy to clean." AKER has successfully engraved a test sheet of Krion, and would like to experiment more with this material moving forward.
 
 
 ### Manufacturing
