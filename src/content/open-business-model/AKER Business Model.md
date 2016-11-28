@@ -26,7 +26,7 @@ A LLC is a hybrid legal business structure that provides limited liability, whil
 
 The greatest advantage of an LLC is that members benefit from limited liability, meaning that they are not held personally liable for business decisions or debts of the LLC. Additionally, this business structure requires less record keeping and facilitates easier sharing of profits than corporations. Disadvantages of an LLC include that they have a limited life, meaning (in many cases) that they must be dissolved if a member leaves the business and also that members must pay taxes on the net income of the LLC, as if they were self employed. More info on LLC’s can be found [here](https://www.sba.gov/starting-business/choose-your-business-structure/limited-liability-company).
 
-## Sales Licences
+## Sales Licences & Wage Witholding License
 
 **Link**: [Colorado Sales Tax License Application](https://apps.colorado.gov/apps/jboss/cbe/index.xhtml;jsessionid=5S1cpowKiOqArBAcChv1GA__)
 
@@ -37,6 +37,8 @@ The greatest advantage of an LLC is that members benefit from limited liability,
 We were required to get a sales tax license for the State of Colorado as well as the City of Denver. You can easily file for a state sales license online [here](https://apps.colorado.gov/apps/jboss/cbe/index.xhtml;jsessionid=5S1cpowKiOqArBAcChv1GA__), and you can file for a city sales tax license [here](https://www.denvergov.org/content/dam/denvergov/Portals/571/documents/NewTaxpayerRegistrationForm.pdf).
 
 We file sales taxes on a quarterly basis with the [Colorado Department of Revenue](https://www.colorado.gov/revenueonline/_/).
+
+When you file for a sales tax license, you also receive a Colorado Account Number (CAN) that you'll use as an employer.
 
 ### Materials:
 Sourcing quality, yet affordable materials can be a problem for any new business, so we wanted to share what we have learned in the hopes that it will be easier for others to follow in our footsteps to create sustainable business of the future.
