@@ -213,48 +213,6 @@ Created by Zach Supalla.
     });
   };
 
-  Docs._removeEmptyTokens = function removeEmptyTokens(token) {
-    if (token.length > 0) {
-      return token;
-    };
-  };
-
-  Docs.resultsAdded = 0;
-
-  Docs.buildSearch = function() {
-    if (typeof lunr === 'undefined') {
-      return;
-    }
-    lunr.Pipeline.registerFunction(Docs._removeEmptyTokens, 'removeEmptyTokens');
-
-    $.getJSON('/search-index.json', function(data) {
-      var store = data.store;
-      var idx = lunr.Index.load(data.index);
-      $('input.search-box').keyup(function() {
-        var searchQuery = this.value;
-        Docs.emptyResults();
-        if (searchQuery === '' || searchQuery.length < 3) {
-          $('.search-results').hide();
-        } else {
-          $('.search-results').show();
-          var results = idx.search(searchQuery);
-          Docs.buildSearchResults(results, store);
-        }
-      });
-    });
-
-    $('body').click(function() {
-      $('.search-results').hide();
-    });
-    $('.search-results').click(function(e) {
-      e.stopPropagation();
-    });
-  };
-  Docs.emptyResults = function() {
-    $('.search-results ul.results').empty();
-    Docs.resultsAdded = 0;
-  };
-
   Docs.titleize = function(string) {
     var stringNoDashes = string.replace(/-/g, ' ');
     var stringToTitleCase = stringNoDashes.replace(/\w\S*/g, function(txt){
@@ -326,7 +284,6 @@ Created by Zach Supalla.
   Docs.scrollToInternalLinks();
   Docs.watchToggleInPageNav();
   Docs.watchToggleSecondaryInPageNav();
-  Docs.buildSearch();
   Docs.toggleNav();
   Docs.toggleShowing();
   prettyPrint();

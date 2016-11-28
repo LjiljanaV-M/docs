@@ -20,8 +20,6 @@ var fork = require('./fork');
 var inPlace = require('metalsmith-in-place');
 var watch = require('metalsmith-watch');
 var autotoc = require('metalsmith-autotoc');
-var lunr = require('metalsmith-lunr');
-var lunr_ = require('lunr');
 var fileMetadata = require('metalsmith-filemetadata');
 var msIf = require('metalsmith-if');
 var precompile = require('./precompile');
@@ -78,7 +76,7 @@ exports.metalsmith = function() {
       directory: '../templates/partials'
     }))
     .use(fileMetadata([
-      {pattern: 'content/**/*.md', metadata: {'lunr': true, 'assets': '/assets', 'branch': gitBranch}}
+      {pattern: 'content/**/*.md', metadata: {'assets': '/assets', 'branch': gitBranch}}
     ]))
     .use(msIf(
       environment === 'development',
@@ -154,16 +152,6 @@ exports.metalsmith = function() {
       selector: 'h2, h3',
       pattern: '**/**/*.md'
     }))
-    .use(lunr({
-      indexPath: 'search-index.json',
-      fields: {
-        contents: 1,
-        title: 10
-      },
-      pipelineFunctions: [
-        removeEmptyTokens
-      ]
-    }))
     .use(templates({
       engine: 'handlebars',
       directory: '../templates'
@@ -181,10 +169,6 @@ exports.compress = function(callback) {
     .concurrency(100)
     .source('../build')
     .destination('../build')
-    .use(compress({
-      src: ['search-index.json'],
-      overwrite: true
-    }))
     .build(callback);
 };
 
@@ -192,10 +176,6 @@ exports.build = function(callback) {
   git.branch(function (str) {
     gitBranch = process.env.TRAVIS_BRANCH || str;
     exports.metalsmith()
-      .use(compress({
-        src: ['search-index.json'],
-        overwrite: true
-      }))
       .build(function(err, files) {
         if (err) {
           throw err;
