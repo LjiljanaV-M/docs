@@ -1,3 +1,9 @@
+---
+title: AKER Operations Manual
+template: user-manuals.hbs
+order: 1
+---
+
 # **AKER Operations**
 ### Founding
 ##### Formation
