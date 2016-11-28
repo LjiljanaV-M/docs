@@ -6,11 +6,13 @@ order: 1
 
 # **AKER Operations**
 
-### Founding
+## Founding
 
-##### Formation
+AKER is set up as a *Limited Liability Company*. We filed *Articles of Incorporation* with the [Colorado Secretary of State](https://www.sos.state.co.us/biz/FileDocNameAvailCriteria.do?transTyp=ARTORG_LLC) and paid a $50 filing fee ([fee schedule](http://www.sos.state.co.us/pubs/info_center/fees/business.html)).
 
-AKER is  set up as a *Limited Liability Company*
+## Operating Agreement
+
+
 
 **Template**: [Operating Agreement](https://docs.google.com/document/d/1E9ytwONhVOc-fwhYyxeekJipqMIEv2QGfsrnGVfRg34/edit?usp=sharing)
 
@@ -21,7 +23,7 @@ The greatest advantage of an LLC is that members benefit from limited liability,
 
 
 
-##### Mission/Vision:
+### Mission/Vision:
 
 
 ### Materials:
