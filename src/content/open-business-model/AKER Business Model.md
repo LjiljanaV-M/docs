@@ -6,11 +6,15 @@ order: 1
 
 # **AKER Operations**
 
-## Founding
+## Founding & State Registration
 
 AKER is set up as a *Limited Liability Company*. We filed *Articles of Incorporation* with the [Colorado Secretary of State](https://www.sos.state.co.us/biz/FileDocNameAvailCriteria.do?transTyp=ARTORG_LLC) and paid a $50 filing fee ([fee schedule](http://www.sos.state.co.us/pubs/info_center/fees/business.html)). This can all be done online, they provide a standard template for you to fill out, and the whole process takes about 20 minutes.
 
-## Operating Agreement
+## Federal Registration
+
+LLCs are required to register with the IRS and are given an *Employer Identification Number* (EIN). You can file online [here](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online) for free, and it takes about 15 minutes. You receive your EIN right away.
+
+## Legal Structure & Operating Agreement
 
 **Template**: [Operating Agreement](https://docs.google.com/document/d/1E9ytwONhVOc-fwhYyxeekJipqMIEv2QGfsrnGVfRg34/edit?usp=sharing)
 
@@ -18,7 +22,10 @@ A LLC is a hybrid legal business structure that provides limited liability, whil
 
 The greatest advantage of an LLC is that members benefit from limited liability, meaning that they are not held personally liable for business decisions or debts of the LLC. Additionally, this business structure requires less record keeping and facilitates easier sharing of profits than corporations. Disadvantages of an LLC include that they have a limited life, meaning (in many cases) that they must be dissolved if a member leaves the business and also that members must pay taxes on the net income of the LLC, as if they were self employed. More info on LLC’s can be found [here](https://www.sba.gov/starting-business/choose-your-business-structure/limited-liability-company).
 
-### Mission/Vision:
+##
+
+## Sales Licences
+
 
 
 ### Materials:
