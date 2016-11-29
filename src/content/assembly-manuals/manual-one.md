@@ -4,12 +4,4 @@ template: assembly-manuals.hbs
 order: 1
 ---
 
-# Test One
-
-Text yo
-
-# Test Two
-
-Assembly Manual
-
-Hi 
+# Coming in December, 2016
