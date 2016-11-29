@@ -1,6 +1,6 @@
 ---
 title: AKER Operations Manual
-template: default.hbs
+template: tutorials.hbs
 order: 1
 ---
 
