@@ -1,5 +1,5 @@
 ---
-title: Open Source Beehives
+title: Introduction
 template: bee-doc.hbs
 order: 1
 ---
