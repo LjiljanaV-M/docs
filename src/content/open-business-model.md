@@ -1,7 +1,8 @@
 ---
 title: AKER Operations Manual
-template: tutorials.hbs
+template: default.hbs
 order: 1
+open-business-model: true
 ---
 
 # **AKER Operations**

@@ -27,10 +27,10 @@
       </ul>
     </div>
     <div class="sections divided">
-      <a class="nav {{#contains path.href 'open-business-model'}}active{{/contains}}" href="/open-business-model">Open Business Model</a>
+      <a class="nav {{#if open-business-model}}active{{/if}}" href="/open-business-model">Open Business Model</a>
     </div>
     <div class="sections divided">
-      <a class="nav {{#contains path.href 'open-source-beehives'}}active{{/contains}}" href="{{ beehives.[0].path.href }}{{ beehives.[0].path.name }}">Open Source Beehives</a>
+      <a class="nav {{#if open-source-beehives}}active{{/if}}" href="{{ beehives.[0].path.href }}{{ beehives.[0].path.name }}">Open Source Beehives</a>
     </div>
   </div>
   <div class='right'>
