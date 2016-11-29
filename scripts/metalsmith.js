@@ -128,6 +128,14 @@ exports.metalsmith = function() {
         pattern: 'user-manuals/*.md',
         sortBy: 'order'
       },
+      businessDocs: {
+        pattern: 'open-business-model/:section/*.md',
+        sortBy: 'order'
+      },
+      beeDocs: {
+        pattern: 'open-source-beehives/:section/*.md',
+        sortBy: 'order'
+      },
       support: {
         pattern: 'support/:section/*.md',
         sortBy: 'order',

@@ -2,7 +2,6 @@
 title: AKER Operations Manual
 template: business-doc.hbs
 order: 1
-open-business-model: true
 ---
 
 # **AKER Operations**

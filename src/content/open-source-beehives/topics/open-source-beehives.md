@@ -1,8 +1,7 @@
 ---
 title: Open Source Beehives
-template: default.hbs
+template: bee-doc.hbs
 order: 1
-open-source-beehives: true
 ---
 
 # OSBHLogger Build Instructions
