@@ -57,7 +57,7 @@ Once you have the correct drive selected, click "Write" to begin writing to the 
 
 First, plug in your memory stick to an open USB port on your computer. Next, open up "This PC" or "My Computer" depending on the version of Windows you are running. Right click on the memory stick you just inserted and choose "Format"
 
-![Format](https://github.com/opensourcebeehives/OSBHLogger/blob/master/documentation/images/02_format.PNG)
+![Format](https://raw.githubusercontent.com/opensourcebeehives/OSBHLogger/blob/master/documentation/images/02_format.PNG)
 
 In the window that pops up, pick "FAT32" from the "File system" dropdown menu and choose "Default allocation size" from the "Allocation unit size" menu. Put whatever you want the drive to be named in the "Volume label" field, ensure "Quick Format" is checked, and click start.
 
