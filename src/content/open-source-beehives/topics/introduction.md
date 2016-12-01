@@ -180,7 +180,7 @@ Move the hardware jumper into the **off** position as shown below:
 
 Your OSBHLogger is nearly ready to go! Plug in the USB hub with your memory stick and sound card and remove the keyboard and monitor. The next time the power is switched on to the Sleepy Pi, the program will run and the Raspberry Pi will take data. Attach the batteries and computer to the inside of a case of your choice and put it in a beehive!
 
-![Beehive](https://github.com/opensourcebeehives/OSBHLogger/blob/master/documentation/images/18_hive.jpg?raw=true)
+![Beehive](https://raw.githubusercontent.com/opensourcebeehives/OSBHLogger/master/documentation/images/18_hive.jpg)
 
 ----
 ##Known Issues
