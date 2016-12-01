@@ -43,7 +43,7 @@ To write the disk image for the Raspberry Pi, first ensure that you have install
 
 Once that is done, plug your microSD card into your computer and run Win32 Disk Imager as an administrator. You will be presented with a window like the one below.
 
-![Win32DiskImager](https://github.com/opensourcebeehives/OSBHLogger/blob/master/documentation/images/01_win32.png)
+![Win32DiskImager](https://raw.githubusercontent.com/opensourcebeehives/OSBHLogger/master/documentation/images/01_win32.png)
 
 Click the folder icon and navigate to the disk image you downloaded earlier. Next, click the drive letter drop down menu to the right and choose the letter that represents your microSD card. 
 
