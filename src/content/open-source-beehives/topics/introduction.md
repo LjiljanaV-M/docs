@@ -1,7 +1,8 @@
 ---
 title: Introduction
 template: bee-doc.hbs
+columns: two
 order: 1
 ---
 
-dd
+## Coming December 2016

@@ -1,5 +1,5 @@
 ---
-title: Test Manual Two
+title: Coming Soon
 template: user-manuals.hbs
 order: 1
 ---

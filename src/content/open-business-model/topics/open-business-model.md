@@ -1,6 +1,7 @@
 ---
 title: AKER Operations Manual
 template: business-doc.hbs
+columns: two
 order: 1
 ---
 

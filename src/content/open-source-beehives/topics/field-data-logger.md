@@ -1,6 +1,7 @@
 ---
 title: Field Data Logger
 template: bee-doc.hbs
+columns: two
 order: 2
 ---
 

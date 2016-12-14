@@ -1,5 +1,5 @@
 ---
-title: Test Manual One
+title: Coming Soon
 template: assembly-manuals.hbs
 order: 1
 ---
