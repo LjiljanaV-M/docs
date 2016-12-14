@@ -19,6 +19,10 @@
       </div>
     </div>
   </div>
-  {{> scripts}}
+  <script>
+    if (window.location.pathname === '/') {
+      window.location.replace('/tutorials/topics/growsquare');
+    }
+  </script>
 </body>
 </html>
