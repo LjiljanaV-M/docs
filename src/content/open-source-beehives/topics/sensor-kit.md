@@ -7,6 +7,8 @@ order: 3
 
 ## Introduction
 
+![Sensor Kit](![Sensor Kit Schematics](https://github.com/AKERKits/docs/blob/master/src/assets/images/Schematic%20-%2001.png?raw=true))
+
 The Open Source Beehives sensor kit is a custom board for remote hive monitoring. Based on the Particle Photon, it can wirelessly transmit sensor data to our open database and your smart phone application.
 
  * Audio
