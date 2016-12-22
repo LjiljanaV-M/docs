@@ -5,7 +5,27 @@ columns: two
 order: 3
 ---
 
-## Coming December 2016
+## Introduction
+
+The Open Source Beehives sensor kit is a custom board for remote hive monitoring. Based on the Particle Photon, it can wirelessly transmit sensor data to our open database and your smart phone application.
+
+ * Audio
+ * Internal Temperature & Humidity
+ * External Temperature & Humidity
+ * Altitude
+ * Barometric Pressure
+ * Accelerometer
+ * Batter Charge Level
+
+## Schematics
+
+Here are the schematics.
+
+## Sensor Case
+
+Here is the sensor case & source files
+
+## Bill of Materials
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
