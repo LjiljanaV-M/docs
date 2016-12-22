@@ -1,6 +1,6 @@
 ---
 title: WormHaus Vermicomposter
-template: bee-doc.hbs
+template: assembly-manuals.hbs
 order: 1
 ---
 
