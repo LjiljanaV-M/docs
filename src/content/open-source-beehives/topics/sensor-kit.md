@@ -19,7 +19,7 @@ The Open Source Beehives sensor kit is a custom board for remote hive monitoring
 
 ## Schematics
 
-![Sensor Kit Schematics](https://github.com/opensourcebeehives/OSBHLogger/blob/master/documentation/images/03_solder1.jpg?raw=true)
+![Sensor Kit Schematics](https://github.com/AKERKits/docs/blob/master/src/assets/images/Schematic%20-%2001.png?raw=true)
 
 See the [GitHub](https://github.com/opensourcebeehives/BuzzBox)
 for source files
