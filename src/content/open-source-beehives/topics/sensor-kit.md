@@ -19,13 +19,21 @@ The Open Source Beehives sensor kit is a custom board for remote hive monitoring
 
 ## Schematics
 
+See the [GitHub](https://github.com/opensourcebeehives/OSBHLogger)
+for source files
+
 Here are the schematics.
 
 ## Sensor Case
 
+See the [GitHub](https://github.com/opensourcebeehives/OSBHLogger)
+for source files
+
 Here is the sensor case & source files
 
 ## Bill of Materials
+
+See the [Spreadsheet](https://github.com/opensourcebeehives/OSBHLogger) 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
