@@ -235,16 +235,6 @@ See the [Spreadsheet](https://github.com/opensourcebeehives/OSBHLogger)
     <td class="tg-yw4l">$0.37</td>
   </tr>
   <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
     <td class="tg-yw4l">JP6</td>
     <td class="tg-yw4l">1</td>
     <td class="tg-yw4l">JST Right Angle Connector - White</td>
