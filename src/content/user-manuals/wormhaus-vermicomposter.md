@@ -1,6 +1,6 @@
 ---
-title: Coming Soon
-template: user-manuals.hbs
+title: WormHaus Vermicomposter
+template: bee-doc.hbs
 order: 1
 ---
 
@@ -42,4 +42,3 @@ To keep your bin going, you will need to remove the castings from time to time a
 Worm Haus Video
 Oregon Cooperative Extension Service - Composting with Worms (pdf)
 Cornell Waste Management Institute - Worm Composting Basics
-
