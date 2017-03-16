@@ -6,8 +6,10 @@
       </a>
     </div>
     <a href="/">
-      <img src="/assets/images/aker-logo.png" id="logo">
+      <img src="/assets/images/aker-logo.svg" id="logo">
     </a>
+  </div>
+  <div class='right'>
     <div class="sections">
       <a class="nav {{#contains path.href 'tutorials'}}active{{/contains}}" href="/tutorials/topics/growsquare">Design Tutorials</a>
       <a class="nav {{#contains path.href 'assembly-manuals'}}active{{/contains}}" href="{{ assemblyManuals.[0].path.href }}{{ assemblyManuals.[0].path.name }}">Assembly Manuals</a>
@@ -16,7 +18,7 @@
     <div class="dropdown mobile-only">
       <a id="dLabel" data-target="#" class="nav" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
         {{first-word-in-relative-url path.href}}
-        <i class="icon ion-chevron-down"></i>
+        <i class="ion-arrow-down-b"></i>
       </a>
       <ul class="dropdown-menu" aria-labelledby="dLabel">
         <li><a href="/tutorials/topics/growsquare">Design Tutorials</a></li>
@@ -26,15 +28,13 @@
         <li><a href={{ beeDocs.[0].path.href }}{{ beeDocs.[0].path.name }}>Open Source Beehives</a></li>
       </ul>
     </div>
-    <div class="sections divided">
+    <div class="sections">
       <a class="nav {{#contains path.href 'open-business-model'}}active{{/contains}}" href="/open-business-model/topics/open-business-model">Open Business Model</a>
     </div>
-    <div class="sections divided">
+    <div class="sections">
       {{log beeDocs.[0]}}
       <a class="nav {{#contains path.href 'open-source-beehives'}}active{{/contains}}" href="/open-source-beehives/topics/introduction">Open Source Beehives</a>
     </div>
-  </div>
-  <div class='right'>
     {{#if formats}}
       <div class="dropdown">
         <a id="dLabel" data-target="#" class="nav nav-device" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
@@ -62,7 +62,7 @@
         </ul>
       </div>
     {{/if}}
-    <a href='https://github.com/akerkits/docs' class="nav" target="_blank"><i class="ion-edit"></i>Edit</a>
- 
+    <a href='https://github.com/akerkits/docs' class="edit" target="_blank"><i class="ion-edit"></i>Edit</a>
+
   </div>
 </div>

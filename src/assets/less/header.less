@@ -1,16 +1,14 @@
 #logo {
   height: 34px;
-  display: block;
-  padding: 10px 40px 8px 10px;
+  padding: 15px 40px 8px 10px;
 }
 
 .header .left {
   float: left;
-  a {
-    display: inline-block;
-    float: left;
-  }
-  a.nav {
+}
+
+.header .right {
+  a.edit, a.nav {
     margin-right: 22px;
   }
 }
@@ -35,13 +33,13 @@
 
 .toggle-nav {
   float: left;
-  margin: 10px 10px 0 15px;
+  margin: 20px 10px 0 25px;
   display: none;
   a {
     color: @light-gray;
     .transition(color 0.2s);
     &:hover {
-      color: @dark-gray;
+      color: @almost-white;
     }
   }
   i {
@@ -52,15 +50,11 @@
   }
 }
 
-a.nav {
-  margin-right: 20px;
-  margin-top: 16px;
+a.edit, a.nav {
   text-transform: uppercase;
   font-size: 12px;
-  font-weight: 700;
   letter-spacing: .7px;
-  color: @gray;
-  display: inline-block;
+  color: @almost-white;
   i {
     margin-right: 5px;
     display: inline-block;
@@ -72,13 +66,36 @@ a.nav {
   }
 }
 
+a.edit {
+  padding: 3px 6px;
+  font-size: 10px;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-left: 32px;
+  display: inline-block;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+}
+
+a.edit:hover {
+  background-color: @almost-white;
+  color: @almost-black;
+  .transition(all 0.2s);
+}
+
+a.nav {
+  color: @nav-link-green;
+  display: inline-block;
+  line-height: @headerHeight + 4px;
+  height: @headerHeight - 4px;
+}
+
 a.nav.active {
-  color: @spark-blue;
-  border-bottom: 2px solid;
+  color: @almost-white;
+  border-bottom: 4px solid @nav-link-border-green;
 }
 
 a.nav:hover {
-  color: @spark-blue;
+  color: @almost-white;
 }
 
 a.nav-device {
@@ -86,7 +103,7 @@ a.nav-device {
 }
 
 .header {
-  background: @almost-white;
+  background-color: @almost-black;
   zoom: 1;
   height: @headerHeight;
   border-bottom: solid 1px #dfe2e7;
@@ -113,14 +130,14 @@ a.nav-device {
   .header .left a {
     margin-right: 5px;
   }
-  .header .left a.toggle-button {
+  .header .right a.toggle-button {
     padding: 8px 0;
     margin-right: 0;
     width: 80px;
   }
   #logo {
     height: 25px;
-    padding: 15px 10px;
+    padding: 20px 10px;
   }
 }
 
@@ -145,8 +162,8 @@ a.nav-device {
 }
 .dropdown-menu {
   position: absolute;
-  top: 100%;
-  left: 0;
+  top: @headerHeight - 5px;
+  left: -20px;
   z-index: @dropdownZindex;
   display: none;
   float: left;
@@ -156,18 +173,12 @@ a.nav-device {
   font-size: 14px;
   text-align: left;
   list-style: none;
-  background-color: #fff;
-  -webkit-background-clip: padding-box;
-          background-clip: padding-box;
-  border: 1px solid #ccc;
-  border: 1px solid rgba(0, 0, 0, .15);
-  border-radius: 4px;
+  background-color: @almost-black;
   -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
   box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
   li {
     overflow-x: hidden;
   }
-
 }
 .dropdown:hover .dropdown-menu, .dropdown:active .dropdown-menu {
   display: block;
@@ -185,10 +196,11 @@ a.nav-device {
 .dropdown-menu > li > a {
   display: block;
   padding: 3px 20px;
+  text-transform: uppercase;
   clear: both;
   font-weight: normal;
-  line-height: 1.42857143;
-  color: #333;
+  line-height: @headerHeight / 2;
+  color: @nav-link-green;
   white-space: nowrap;
   width: 100%;
 }
