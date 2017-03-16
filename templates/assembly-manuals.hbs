@@ -11,7 +11,9 @@
       <div class='menubar'>
       <ul class="nav guide-menu">
         {{#each assemblyManuals}}
-          <li><a href="{{path.href}}{{path.name}}">{{title}}</a></li>
+          <li>
+            <h3 class="guide-section-titles"><a href="{{path.href}}{{path.name}}">{{title}}</a></h3>
+          </li>
         {{/each}}
       </ul>
       </div>
