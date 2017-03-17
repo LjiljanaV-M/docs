@@ -39,6 +39,17 @@
     }
   }
 }
+.content-recent-author {
+  margin-bottom: 32px;
+  font-size: 10px;
+  color: #aeb3aa;
+}
+.content-section-title{
+  font-size: 10px;
+  color: #798073;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
 .content p + ul,
 .content p + ol,
 .content p + p {
@@ -219,7 +230,12 @@ h1 .header-permalinks {
   right: 0;
   bottom: 0;
 }
-.content, .content-body {
+.content {
+  zoom: 1;
+  max-width: 700px;
+  padding: 45px 30px 80px;
+}
+.content-body {
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 40px;
@@ -669,6 +685,7 @@ code .comment {
   z-index: 1;
   display: block;
   margin: 20px auto;
+  max-width: 100%;
 }
 
 .content iframe {
@@ -679,7 +696,7 @@ code .comment {
   z-index: 1;
   display: block;
   margin: 20px auto;
-
+  max-width: 100%;
 }
 
 .content table th,
@@ -743,7 +760,6 @@ hr {
 
 .two-columns {
   .content {
-    padding: 40px 30px 80px;
     margin: 0 auto;
   }
   .content p.img {
