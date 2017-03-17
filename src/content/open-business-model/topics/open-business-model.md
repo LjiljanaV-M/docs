@@ -3,9 +3,12 @@ title: AKER Operations Manual
 template: business-doc.hbs
 columns: two
 order: 1
+author: Tom Smith
 ---
 
 # **AKER Operations**
+
+{{{authorship}}}
 
 ## Legal
 
@@ -50,7 +53,7 @@ Plywood kits can last for years, even in outdoor conditions (boats are often mad
 * *Exterior-grade*: phenolic resins
 * *No Added Urea Formaldehydes (NAUF)*
 * *FSC-Certified or equivalent*: responsibly managed forests
-* *High Ply Count*: 9 plies (layers) on 0.5"/12mm 
+* *High Ply Count*: 9 plies (layers) on 0.5"/12mm
 * *Domestically-sourced*: smaller carbon footprint & easier to audit
 * *Void-free*: machined sections will be consistent
 * *Light-weight*: less costs when shipping
@@ -89,7 +92,7 @@ Currently, AKER is experimenting with a number of sustainable materials to ensur
 Ideal properties for wood sealers:
 
 * *FDA/USDA Compliant*:
-* *Non-Toxic*: 
+* *Non-Toxic*:
 * *ASMT Tests*: passes ASTM testing
 * *VOC Free*: free from the offgassing of volatile organic compounds
 * *Lead Free*: no lead present

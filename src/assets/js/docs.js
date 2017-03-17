@@ -252,6 +252,7 @@ Created by Zach Supalla.
       e.preventDefault();
       toggleNav();
       updateBackdrop();
+      toggleIcon(this, $root.hasClass('menubar-show'));
     });
 
     $root.on('click', '.menubar-backdrop', function(e) {
@@ -259,6 +260,16 @@ Created by Zach Supalla.
       closeNav();
       updateBackdrop();
     });
+
+    function toggleIcon(el, isOpen) {
+      if (isOpen) {
+        $('i', el).removeClass('ion-navicon');
+        $('i', el).addClass('ion-android-close');
+      } else {
+        $('i', el).addClass('ion-navicon');
+        $('i', el).removeClass('ion-android-close');
+      }
+    }
 
     function toggleNav() {
       $root.toggleClass('menubar-show');

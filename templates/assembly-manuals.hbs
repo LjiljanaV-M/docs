@@ -11,13 +11,16 @@
       <div class='menubar'>
       <ul class="nav guide-menu">
         {{#each assemblyManuals}}
-          <li><a href="{{path.href}}{{path.name}}">{{title}}</a></li>
+          <li>
+            <h3 class="guide-section-titles"><a href="{{path.href}}{{path.name}}">{{title}}</a></h3>
+          </li>
         {{/each}}
       </ul>
       </div>
       <div class="page-body">
         <div class='content-inner'>
           <div class="content" >
+            <h6 class="content-section-title">Assembly Manuals</h6>
             {{{contents}}}
           </div>
         </div>
