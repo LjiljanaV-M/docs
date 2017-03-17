@@ -1,4 +1,5 @@
 #!/bin/bash
 
-node ~/Dev/docs/scripts/build.js
+npm run build
+
 rsync -avz ~/Dev/docs/build/ /var/www/html
