@@ -1,3 +1,5 @@
+addons:
+  ssh_known_hosts: $deploy_remote_host
 language: node_js
 sudo: required
 node_js:
