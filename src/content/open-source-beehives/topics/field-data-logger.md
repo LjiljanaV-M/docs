@@ -10,7 +10,7 @@ order: 2
 
 Teddy Lowe, October 2016
 
-See the [GitHub](https://github.com/opensourcebeehives/OSBHLogger) 
+See the [GitHub](https://github.com/opensourcebeehives/OSBHLogger)
 for source files
 
 ----
@@ -41,13 +41,13 @@ These libraries must be installed for the code to compile. [See here](https://ww
 ## 1. Write Raspberry Pi Image
 *These instructions only apply to Windows. For Mac or Linux, [see here](http://elinux.org/RPi_Easy_SD_Card_Setup).*
 
-To write the disk image for the Raspberry Pi, first ensure that you have installed Win32 Disk Imager and downloaded the latest disk image using the links above. 
+To write the disk image for the Raspberry Pi, first ensure that you have installed Win32 Disk Imager and downloaded the latest disk image using the links above.
 
 Once that is done, plug your microSD card into your computer and run Win32 Disk Imager as an administrator. You will be presented with a window like the one below.
 
 ![Win32DiskImager](https://raw.githubusercontent.com/opensourcebeehives/OSBHLogger/master/documentation/images/01_win32.png)
 
-Click the folder icon and navigate to the disk image you downloaded earlier. Next, click the drive letter drop down menu to the right and choose the letter that represents your microSD card. 
+Click the folder icon and navigate to the disk image you downloaded earlier. Next, click the drive letter drop down menu to the right and choose the letter that represents your microSD card.
 
 Be careful! If you select the wrong letter you can lose a lot of data!
 
@@ -58,8 +58,6 @@ Once you have the correct drive selected, click "Write" to begin writing to the 
 *This step can be completed while the microSD card is being written to. This only applies to Windows. See here for [Mac](http://osxdaily.com/2012/01/04/format-an-external-hard-drive-or-usb-flash-drive-for-mac-os-x/) or [Linux](http://askubuntu.com/questions/22381/how-to-format-a-usb-flash-drive).*
 
 First, plug in your memory stick to an open USB port on your computer. Next, open up "This PC" or "My Computer" depending on the version of Windows you are running. Right click on the memory stick you just inserted and choose "Format"
-
-![Format](https://raw.githubusercontent.com/opensourcebeehives/OSBHLogger/blob/master/documentation/images/02_format.PNG)
 
 In the window that pops up, pick "FAT32" from the "File system" dropdown menu and choose "Default allocation size" from the "Allocation unit size" menu. Put whatever you want the drive to be named in the "Volume label" field, ensure "Quick Format" is checked, and click start.
 
@@ -99,7 +97,7 @@ With this ready, click the blue arrow in the top left corner to upload the code.
 
 ----
 ## 4. Set Up and Build Camera
-Before the camera gets encased by LEDs and has extra wires running to it, we need to focus the lens to a very short distance because of the small spacing in beehives. 
+Before the camera gets encased by LEDs and has extra wires running to it, we need to focus the lens to a very short distance because of the small spacing in beehives.
 
 ### Set Up Camera
 To begin doing this, we will first need to plug in the camera and the Sleepy Pi. This is also a good time to change out the short camera cable that it comes with for the longer one needed to reach inside the hive.
@@ -152,11 +150,11 @@ The last piece of hardware needed is the power switch. This switch can be solder
 ##Change ID and Prepare for Logging
 The final steps before the OSBHLogger is ready involves working in the terminal.
 
-First, boot up the Raspberry Pi with the hardware jumper **on** if it is not on already. You will be booted into the home directory of the system. 
+First, boot up the Raspberry Pi with the hardware jumper **on** if it is not on already. You will be booted into the home directory of the system.
 
-Type `cd OSBHLogger/` to move into the folder containing the program. 
+Type `cd OSBHLogger/` to move into the folder containing the program.
 
-Type `nano info.txt` to open up the information about this particular OSBHLogger. 
+Type `nano info.txt` to open up the information about this particular OSBHLogger.
 
 Within this window, you will see the text looks like the following:
 
