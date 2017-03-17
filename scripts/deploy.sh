@@ -1,5 +1,4 @@
 #!/bin/bash
 
 npm run build
-
-rsync -avz ~/Dev/docs/build/ /var/www/html
+rsync -ravz --delete-after "${TRAVIS_BUILD_DIR:-.}/build/" "${DEPLOY_HOST:-deploy@x.x.x.x}:/var/www/html"
