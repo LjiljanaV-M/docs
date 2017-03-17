@@ -24,9 +24,7 @@ install:
 script:
 - npm test && ./scripts/deploy.sh
 notifications:
-  slack:
-    rooms:
-    - s:1SUvEfTWrI5cPwufwTAkxFas#documentation
+  email: false
 env:
   global:
   - secure: IG50gM5ll3BpqYuCSOV+EztEeXpCURnyJ3fcXoi/eGD9gcvR3T5BLRBRSQb1t53/E+WdvqRbBDn4W+vEAtaquYRywtm6XAEH7++phwjS3dRdSFsnB62x9Bfn98+/TDjOxDrEGI/pwoNjOBmjfGQh0uBXGWqUOdnYQ2vYrklcQwS5ihC+AoK37YXy6hRfg7Jn2LnmBi72CMmcmt9he2Rr0v5lq/bwCaUCIzzpWeZZYcHCyMA7ylZUtI+a991Wn7QMgn0p7V/kbQ5Nbc/qNEjsPSqhxUdb0d0vxSycxTUvciZJddJhLcvVPeNP46+xS/1q7ZC0ipfw8NbL5RfsYBxzRPDdp+MtJTZy4sY7d+v8Dxc9U/BQtRS7pvH+NF8l0940ThiDBrWjZwtOkrrmaCDEVPcagosJsUcdnLnwMp2FdVxKOt/lDFRvOzTPqFSRP/3RmWaIbR5qZMuOd7BIKAr2h/htmf+R1J07ZIJSW96pVXvayxQMCWaYKmwDzKDyJeAYq1A+SEkuuFfO4chFGdVrdQDLPEkczpuCX1Jgrh3PPj0yVRy/v4MzDxdiZI1PH6W12xomVAkFA7tXgvne6+hZ1s7dEgTrh6hdYD5gizXTFPTbmlWf16OFGKUtcAhPDG2tB3pSy2/j1V+gAdUb23iPaJx3bDkF2sACD1SrTaj2bYE=
