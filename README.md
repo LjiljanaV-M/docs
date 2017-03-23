@@ -44,7 +44,9 @@ not.
 
 ### Deployment
 
-When updated documentation is pushed to the master branch, it is automatically pushed to the server
+The production server listens for a webhook from Github when a push is made to master.
+Upon receiving one, the build step is run. The script `scripts/hook.js` listens for the
+webhook. Run it with a daemonizer like [pm2](https://github.com/Unitech/pm2) or [forever](https://github.com/foreverjs/forever).
 
 ### Organization
 
