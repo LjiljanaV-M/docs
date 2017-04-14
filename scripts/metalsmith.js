@@ -121,7 +121,7 @@ exports.metalsmith = function() {
 				]
 			},
       assemblyManuals: {
-        pattern: 'assembly-manuals/*.md',
+        pattern: 'assembly-manuals/:section/*.md',
         sortBy: 'order'
       },
       userManuals: {
