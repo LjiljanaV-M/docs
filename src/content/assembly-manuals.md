@@ -1,7 +1,5 @@
 ---
-title: Growsquare
+title: Assembly Manuals
 template: assembly-manuals.hbs
 order: 1
 ---
-
-## Example page
