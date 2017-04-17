@@ -1,7 +1,0 @@
----
-title: Growsquare
-template: assembly-manuals.hbs
-order: 1
----
-
-## Example page

@@ -1,6 +1,6 @@
 ---
 title: WormHaus Vermicomposter
-template: assembly-manuals.hbs
+template: user-manuals.hbs
 order: 1
 ---
 
