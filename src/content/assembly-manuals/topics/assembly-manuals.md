@@ -13,3 +13,5 @@ order: 1
 ## WormHaus - v1.2
 
 {{{embed "4430350/47290427"}}}
+
+[Download PDF](https://www.google.com)
